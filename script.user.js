@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Native Fullscreen Option For MintManga
+// @name         Fullscreen Option For MintManga
 // @version      1.0
 // @author       НИНРИ (https://discord.gg/PSTM5gh)
 // @match        http://mintmanga.com/*
