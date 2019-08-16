@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Fullscreen Option For MintManga
-// @version      1.0
+// @version      1.1.0
 // @author       НИНРИ (https://discord.gg/PSTM5gh)
 // @match        http://mintmanga.com/*
 // @match        https://mintmanga.com/*
+// @match        http://readmanga.me/*
+// @match        https://readmanga.me/*
 // @updateURL    https://github.com/xonrsoftware/FullscreenOptionForMintManga/raw/master/script.user.js
 // @downloadURL  https://github.com/xonrsoftware/FullscreenOptionForMintManga/raw/master/script.user.js
 // @grant        GM_addStyle
