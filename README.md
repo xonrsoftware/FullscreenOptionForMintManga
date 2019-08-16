@@ -9,3 +9,5 @@
 - For Safari - https://safari-extensions.apple.com/details/?id=net.tampermonkey.safari-G3XV72R5TC
 
 2) Откройте ссылку скрипта: https://github.com/xonrsoftware/FullscreenOptionForMintManga/raw/master/script.user.js и нажмите "Install";
+
+![Предпросмотр](preview.png)
